@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming in C++
 - 🌱 I’m currently learning fundamentals in programming 
 - 💞️ I’m looking to collaborate on anything new!
-- 📫 How to reach me e.barreracastro@wsu.edu
+- 📫 How to reach me: e.barreracastro@wsu.edu
 - 🌊 Pronouns: she/her
 
 <!---
